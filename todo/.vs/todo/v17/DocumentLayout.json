@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\anugular-practice\\angular-practice\\todo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\anugular-practice\\angular-practice\\todo\\src\\app\\app.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.component.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\anugular-practice\\angular-practice\\todo\\src\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\anugular-practice\\angular-practice\\todo\\angular.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angular.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Projects\\anugular-practice\\angular-practice\\todo\\src\\server.ts||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\server.ts||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.html",
+              "DocumentMoniker": "E:\\Projects\\anugular-practice\\angular-practice\\todo\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "src\\app\\app.component.html",
+              "ToolTip": "E:\\Projects\\anugular-practice\\angular-practice\\todo\\src\\app\\app.component.html",
+              "RelativeToolTip": "src\\app\\app.component.html",
+              "ViewState": "AgIAANsAAAAAAAAAAAAAAOcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-18T20:32:46.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\Projects\\anugular-practice\\angular-practice\\todo\\src\\index.html",
+              "RelativeDocumentMoniker": "src\\index.html",
+              "ToolTip": "E:\\Projects\\anugular-practice\\angular-practice\\todo\\src\\index.html",
+              "RelativeToolTip": "src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-18T20:30:20.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "angular.json",
+              "DocumentMoniker": "E:\\Projects\\anugular-practice\\angular-practice\\todo\\angular.json",
+              "RelativeDocumentMoniker": "angular.json",
+              "ToolTip": "E:\\Projects\\anugular-practice\\angular-practice\\todo\\angular.json",
+              "RelativeToolTip": "angular.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-18T20:30:15.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "server.ts",
+              "DocumentMoniker": "E:\\Projects\\anugular-practice\\angular-practice\\todo\\src\\server.ts",
+              "RelativeDocumentMoniker": "src\\server.ts",
+              "ToolTip": "E:\\Projects\\anugular-practice\\angular-practice\\todo\\src\\server.ts",
+              "RelativeToolTip": "src\\server.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-04-18T20:30:08.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
