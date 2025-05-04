@@ -7,3 +7,17 @@
         you can manage todos here <a routerLink='/todos'>todos</a>
     </div>
 </div>
+
+<div class="container">
+    <div>
+        you can click here to get the welcome message 
+        <button (click) = "getWelcomeMessage()" class="btn btn-success">Welcome Message</button>
+    </div>
+</div>
+
+<div class="container">
+    <div *ngIf = messageFromServer>
+        Message from the server is
+        {{messageFromServer}}
+    </div>
+</div>
