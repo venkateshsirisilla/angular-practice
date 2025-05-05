@@ -1,5 +1,6 @@
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Injectable } from '@angular/core';
+import { API_URL } from '../../app.constants';
 
 class HelloWorldBean{
   constructor(private message: String){
@@ -18,7 +19,7 @@ export class WelcomeDataService {
     // let headers = new HttpHeaders({
     //   Authorization: basicAuthHeader
     // })
-    return this.http.get<HelloWorldBean>("${API_URL}/helloWorld")
+    return this.http.get<HelloWorldBean>(`${API_URL}/helloWorld`)
     // console.log("Hello how are you")
   }
 
